@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.homecontent {
+  text-align: center;
+  padding-top: 0.7cm;
+  padding-right: 7cm;
+}
+.header {
+  background-color: floralwhite;
+  color: black;
+  text-align: center;
+  padding: 30px;
+}
+.menu {
+  background-color: whitesmoke;
+  color: black;
+  height: 600px;
+  width: 20%;
+  float: left;
+  padding: 30px;
+}
+.content {
+  background-color: white;
+  text-align: center;
+  float: left;
+  padding: 30px;
+  height: 500px;
+  width: 80%;
+}
+.footer {
+  padding: 50px;
+  background-color: floralwhite;
+  text-align: center;
+  clear: both;
+  padding: 40px;
+  height: 180px;
+}
